@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --font-greatVibes: 'Great Vibes', cursive;
+  --font-marckScript: 'Marck Script', cursive;
+  --font-playfairDisplay: 'Playfair Display', serif;
+  --font-robotoSerif: 'Roboto Serif', serif;
+}
